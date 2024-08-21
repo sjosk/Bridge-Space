@@ -1,3 +1,7 @@
+### Laser-Cut Ssetting ###
+Redline: cut \
+Blackline: etch
+
 
 ### Icon Sources for NFC Cube and UI
 | **Icon**              | **Source**                                                                                                                                     |
