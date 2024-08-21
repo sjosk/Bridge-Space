@@ -3,16 +3,16 @@
 Before running the scripts, make sure to install the following packages using `pip`:
 
 ```bash
-pip3 install pygame
-pip3 install threading
-pip3 install json
-pip3 install adafruit-circuitpython-busdevice
-pip3 install RPi.GPIO
-pip3 install adafruit-circuitpython-scd30
-pip3 install nfcpy
-pip3 install sktwriter
-pip3 install paho-mqtt
-pip3 install influxdb-client
+pip install pygame
+pip install threading
+pip install json
+pip install adafruit-circuitpython-busdevice
+pip install RPi.GPIO
+pip install adafruit-circuitpython-scd30
+pip install nfcpy
+pip install sktwriter
+pip install paho-mqtt
+pip install influxdb-client
 ```
 ### Steps to Run the Scripts
 
