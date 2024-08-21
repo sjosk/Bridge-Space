@@ -1,4 +1,5 @@
-# Bridge-Space
+<img src="./img/logo.png" alt="Logo" width="300" >
+
 > Connecting Remote Offices via Gamified Touchless Phygital Interfaces
 
 Bridge Space creates a link between remote offices through gamified touchless phygital interfaces. This device utilizes sensors as interactive components and a display screen, and the system is tailored for office environments. The design emphasizes simplicity, ease of use, and gamified features to enhance user engagement.
