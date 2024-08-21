@@ -13,6 +13,8 @@ Sensing gesture, environmental data, and electromagnetic induction to create a c
 <img src="./img/Spin.png" alt="spin" width="200" >
 <img src="./img/Rotate.png" alt="rotate" width="200" >
 
+[📹Video Demonstration](https://youtu.be/o8lDl8A0X2c?si=-oIlWewPWmCC0gkX)
+
 
 ## Deploy
 Deployed in two remote offices. \
@@ -35,3 +37,5 @@ Connecting users in both spaces through a gamified system that provides features
 ## Exhibition
 
 <img src="./img/Exhibition.JPG" width="800"> 
+
+
