@@ -6,7 +6,7 @@ Bridge Space creates a link between remote offices through gamified touchless ph
 
 Starting with human-device interactions, it facilitates seamless communication between devices and extends to connect office workers in different locations. Through these interfaces, activities, and messages are shared between offices, bridging the physical gap between remote offices and fostering a sense of connection among office workers.
 
-## Sense
+## 🪬 Sense
 Sensing gesture, environmental data, and electromagnetic induction to create a contactless interaction. \
 \
 <img src="./img/Blow.png" alt="blow" width="200" >
@@ -16,13 +16,13 @@ Sensing gesture, environmental data, and electromagnetic induction to create a c
 [📹Video Demonstration](https://youtu.be/o8lDl8A0X2c?si=-oIlWewPWmCC0gkX)
 
 
-## Deploy
+## 💼 Deploy
 Deployed in two remote offices. \
 \
 <img src="./img/TCR.JPG" alt="TCR" width="300" >
 <img src="./img/OPS.JPG" alt="OPS" width="300" > 
 
-## Communicate
+## 🗣 Communicate
 Connecting users in both spaces through a gamified system that provides features such as announcements, games, food and drink selectors, and meeting room availability. 
 - **Announcement**: Displays events and other social and academic activities.
 - **Game**: Starts a running competition spin wheel via gesture detection.
@@ -34,7 +34,7 @@ Connecting users in both spaces through a gamified system that provides features
 <img src="./img/IMG_1016.JPG" width="250"> <img src="./img/IMG_1009.JPG" width="250"> <img src="./img/IMG_1014.JPG" width="250"> <img src="./img/IMG_1015.JPG" width="250"> <img src="./img/IMG_1011.JPG" width="250">
 
 
-## Exhibition
+## 🖼 Exhibition
 
 <img src="./img/Exhibition.JPG" width="800"> 
 
