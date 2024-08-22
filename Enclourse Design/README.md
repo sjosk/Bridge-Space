@@ -1,4 +1,4 @@
-### Laser-Cut Ssetting ###
+### Laser-Cut Setting ###
 Redline: cut \
 Blackline: etch
 
