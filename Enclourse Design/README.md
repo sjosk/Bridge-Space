@@ -1,3 +1,6 @@
+<img src="https://github.com/sjosk/Bridge-Space/blob/main/Enclourse%20Design/design_process.png" alt="interaction" width="700" >
+
+
 ### Laser-Cut Setting ###
 Redline: cut \
 Blackline: etch
